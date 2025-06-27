@@ -4,6 +4,8 @@ class n_t_1 {
     //base class
     if (n==0){
       return;
+    
+    
 
     }
     System.out.printf("%d ",n);
